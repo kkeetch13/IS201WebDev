@@ -1,0 +1,105 @@
+/* Kaden Keetch 12/11/2022 */
+body { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    background-color: #efefef;
+    color: #434343;
+    margin: 0;
+    overflow-x: hidden;
+}
+
+
+.center {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+img {
+    max-width: 60%;
+}
+
+.navBar {
+    background-color: lightgray;
+    max-width: 100%;
+}
+
+.navFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.navButton {
+    padding-right: 4rem;
+    padding: 2rem;
+    background-color: black;
+}
+
+
+.header, .footer {
+    text-align: right;
+    background-color: rgb(99, 99, 99);
+    color: #efefef;
+}
+
+nav {
+    padding-right: 2rem;
+}
+
+.header {
+    padding: 2rem;
+    margin-bottom: 1rem;
+    width: 100%;
+    font-size: x-large;
+}
+
+.header a {
+    color: #efefef;
+    padding-right: 2.5rem;
+    padding-left: 2.5 rem;
+}
+
+.mainbody a {
+    color: #434343ff;
+}
+.mainbody {
+    padding-left: 2rem;
+    padding-right: 5rem;
+    color: #555555;
+    
+}
+
+figure {
+    display: block;
+    width: 100%;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    margin-left: 36rem;
+}
+
+li {
+    font-size: 100%;
+}
+
+h2 {
+    margin-top: 3rem;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(99, 99, 99);
+    color: #efefef;
+}
+
+.footer {
+    width: 100%;
+    padding: 2rem;
+    margin-top: 1rem;
+    font-size: small;
+}
